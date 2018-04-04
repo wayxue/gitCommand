@@ -16,3 +16,9 @@
     git push origin master                     
     这样就可以在GitHub上同步看到了。
 8. 另外，个人感觉git-bash.exe 中的命令与linux命令很相似。
+# 如何创建一个仓库
+1. 在GitHub上新建一个仓库，复制地址，克隆到本地。
+2. 在本地添加需要上传的代码。
+3. git add .
+4. git commit -m "instruction"
+5. git push origin master
